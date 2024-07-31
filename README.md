@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranyaprax
-- 👀 I’m interested in game development and sports
-- 🌱 I’m currently learning lots of programming languages including c++, blueprints (UE5), Java 
+- 👀 I’m interested in game development, coding and working out 🏋️‍♀️
+- 🌱 I’m currently learning lots of programming languages including C++, blueprints (UE5), Java, C and Python
 - 📫 How to reach me: r.praxmarer12@gmail.com
 - 😄 Pronouns: she/her
